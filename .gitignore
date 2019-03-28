@@ -1,2 +1,2 @@
-./server/node_modules
-./server/dev.js
+node_modules
+config/dev.js
